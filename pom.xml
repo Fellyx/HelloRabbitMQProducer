@@ -14,7 +14,7 @@
 	<name>RabbitMQProducer</name>
 	<description>Tutorial for Hello World on RabbitMQ.</description>
 	<properties>
-		<java.version>17</java.version>
+		<java.version>11</java.version>
 	</properties>
 	<dependencies>
 		<dependency>
